@@ -1,4 +1,4 @@
-###Cupid's Quest
+### Cupid's Quest
 You are the Cupid and one of your main responsibility is to matchmake as many couples as possible.
 However, you must be diligent in your matching, as each person is represented by an __integer__ and two people can only 
 fall in love if the sum of their integers is equal to a number __K__. 
